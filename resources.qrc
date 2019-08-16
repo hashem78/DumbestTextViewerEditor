@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>resources.qrc</file>
+        <file>text_edit_icons/center-alignment.png</file>
+        <file>text_edit_icons/file (1).png</file>
+        <file>text_edit_icons/justify-align.png</file>
+        <file>text_edit_icons/left-alignment.png</file>
+        <file>text_edit_icons/right-alignment.png</file>
+        <file>text_edit_icons/save.png</file>
+    </qresource>
+</RCC>
